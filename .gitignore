@@ -38,6 +38,7 @@ hs_err_pid*
 *_BASE_*.txt
 *_LOCAL_*.txt
 *_REMOTE_*.txt
+.idea
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider

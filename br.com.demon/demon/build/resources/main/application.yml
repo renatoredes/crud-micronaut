@@ -1,7 +1,0 @@
-micronaut:
-  application:
-    name: demon
-netty:
-  default:
-    allocator:
-      max-order: 3
